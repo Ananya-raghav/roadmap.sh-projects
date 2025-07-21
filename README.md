@@ -27,3 +27,4 @@ To view and customize this CV:
     * **Ensure your LinkedIn and GitHub profile links** in the "Across the Internet" section are correct.
     * If you wish to change the visual appearance (colors, fonts, spacing), you will need to edit the CSS code located within the `<style>` tags in the `<head>` section of the `index.html` file.
 
+https://roadmap.sh/projects/single-page-cv
